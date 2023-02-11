@@ -1,5 +1,14 @@
 Hi 👋 My name is Luca Cavallo
-=============================Frontend Developer------------------Once in the record business, then music journalist, a librarian and now an aspiring frontend developer. I have studied HTML, CSS, Javascript and Responsive Web Design, learned to use VS Code and Git* 🌍  I'm based in Florence* ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)* 🧠  I'm learning React* ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
+=============================
+
+Frontend Developer
+------------------
+
+Once in the record business, then music journalist, a librarian and now an aspiring frontend developer. I have studied HTML, CSS, Javascript and Responsive Web Design, learned to use VS Code and Git.
+* 🌍  I'm based in Florence
+*  ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
+* 🧠  I'm learning React
+* ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
 
 ### Skills
 
