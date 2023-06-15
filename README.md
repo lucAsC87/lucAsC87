@@ -7,7 +7,7 @@ Frontend Developer
 Once in the record business, then music journalist, a librarian and now an aspiring frontend developer.
 * 🌍  I'm based in Florence
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning C
 * ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
 
 ### Skills
