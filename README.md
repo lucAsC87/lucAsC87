@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/_EYOsX_1CUkAAAAC/pixel-night.gif"/>
+  <img src="https://tenor.com/view/pixel-night-gif-21412193"/>
 </p>
 
 Hi 👋 My name is Luca Cavallo
