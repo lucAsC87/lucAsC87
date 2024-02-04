@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://media1.tenor.com/m/_EYOsX_1CUkAAAAC/pixel-night.gif" />
 </p>
 
