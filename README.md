@@ -12,7 +12,7 @@ Once in the record business, then music journalist, a librarian and now an aspir
 * 🧠  I'm learning C
 * ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
 
-### Skills
+## Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
