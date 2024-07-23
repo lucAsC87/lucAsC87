@@ -10,7 +10,7 @@ Once in the record business, then music journalist, a librarian and now an aspir
 * 🌍  I'm based in Florence
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
 * 🧠  I'm following CS50
-* ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
+* ⚡  I’m an avid reader (mainly books, essays and comics) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
 ### Skills
 
