@@ -9,7 +9,7 @@ Hi 👋 My name is Luca Cavallo
 Once in the record business, then music journalist, a librarian and now an aspiring developer.
 * 🌍  I'm based in Florence
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
-* 🧠  I'm learning C
+* 🧠  I'm following CS50
 * ⚡  My main interests are sci-fi, comics, heavy psychedelic rock, basketball. Oh, and cats.
 
 ### Skills
