@@ -16,6 +16,6 @@ Once in the record business, then music journalist, a librarian and now an aspir
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,vim,vscode&theme=dark&" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,python,vim,vscode&theme=dark&" />
   </a>
 </p>
