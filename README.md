@@ -9,7 +9,7 @@ Hi 👋 My name is Luca Cavallo
 Once in the record business, then music journalist, a librarian and now an aspiring developer.
 * 🌍  I'm based in Brussels
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
-* 🧠  I'm following [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* 🧠  I'm following [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2024/)
 * ⚡  I’m an avid reader (mainly books, essays and comics) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
 ### Skills
