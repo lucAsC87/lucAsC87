@@ -9,8 +9,8 @@ Hi 👋 My name is Luca Cavallo
 Once in the record business, then music journalist, a librarian and now an aspiring developer.
 * 🌍  I'm based in Brussels
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
-* 🧠  I'm following the [Exercism Python Track](https://exercism.org/tracks/python)
-* 📖  I'm reading [Introduction to Networking](https://www.dr-chuck.com/net-intro/index.php) and [Pensare in Python](https://www.egeaeditore.it/ita/prodotti/ict-e-sistemi-informativi/think-python_.aspx)
+* 🧠  I'm following the [Exercism Python Track](https://exercism.org/tracks/python) and [Internet History, Security, and Technology]((https://ihts.pr4e.com/)
+* 📖  I'm reading [Pensare in Python](https://www.egeaeditore.it/ita/prodotti/ict-e-sistemi-informativi/think-python_.aspx)
 * ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
 ### Skills
