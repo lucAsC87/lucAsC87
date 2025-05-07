@@ -10,7 +10,7 @@ Once in the record business, then music journalist, a librarian and now an aspir
 * 🌍  I'm based in Brussels
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
 * 🧠  I'm following the [Exercism Python Track](https://exercism.org/tracks/python)
-* 📖  I'm reading [Pensare in Python](https://www.egeaeditore.it/ita/prodotti/ict-e-sistemi-informativi/think-python_.aspx)
+* 📖  I'm reading [How Cybersecurity Really Works](https://nostarch.com/cybersecurityreallyworks)
 * ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
 ### Skills
