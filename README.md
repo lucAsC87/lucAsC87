@@ -6,7 +6,7 @@
 Hi 👋 My name is Luca Cavallo
 =============================
 
-Once in the record business, then music journalist, a librarian and now an aspiring Cyber Security Analyst Trainee at BeCode.
+Once in the record business, then music journalist, a librarian and now a Cyber Security Analyst Trainee at BeCode.
 * 🌍  I'm based in Bruxelles
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
 * 🧠  I'm following [Practical Networking](https://www.roppers.org/courses/networking)
