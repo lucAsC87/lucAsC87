@@ -20,4 +20,5 @@ Once in the record business, then music journalist, a librarian and now a Cyber 
     <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,python,ubuntu,vim,vscode&theme=dark&" />
   </a>
 </p>
+
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucAsC87&theme=vision_friendly_dark) 
