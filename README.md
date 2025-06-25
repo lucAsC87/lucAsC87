@@ -13,6 +13,8 @@ Once in the record business, then music journalist, a librarian and now a Cyber 
 * 📖  I'm reading [How Cybersecurity Really Works](https://nostarch.com/cybersecurityreallyworks)
 * ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucAsC87&theme=vision_friendly_dark) 
+
 ### Skills
 
 <p align="center">
@@ -21,4 +23,3 @@ Once in the record business, then music journalist, a librarian and now a Cyber 
   </a>
 </p>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucAsC87&theme=vision_friendly_dark) 
