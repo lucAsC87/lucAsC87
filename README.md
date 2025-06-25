@@ -21,6 +21,6 @@ Once in the record business, then music journalist, a librarian and now a Cyber 
   </a>
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucAsC87&theme=vision_friendly_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucAsC87&theme=vision_friendly_dark" />
 </p>
 
