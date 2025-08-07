@@ -10,7 +10,7 @@ Once in the record business, then music journalist, a librarian and now a Cyber 
 * 🌍  I'm based in Bruxelles
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
 * 🧠  I'm following the [BeCode's Cyber Security Bootcamp](https://becode.org/all-trainings/pedagogical-framework-cyber-security/) 
-* 📖  I'm reading [How Cybersecurity Really Works](https://nostarch.com/cybersecurityreallyworks)
+* 📖  I'm reading [Professione Cyber Security Manager](https://www.apogeonline.com/libri/professione-cyber-security-manager-alyssa-miller/)
 * ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
 
 ### Skills
