@@ -6,7 +6,8 @@
 Hi 👋 My name is Luca Cavallo
 =============================
 
-Once in the record business, then music journalist, a librarian and now a Cyber Security Analyst Trainee at BeCode.
+After years of experience as a journalist and librarian, I decided to start a new path in IT, combining my communication and analytical skills with technology.
+I am passionate about science fiction, basketball, retro video games, and heavy psychedelic rock. I firmly believe in the power of free software to promote innovation and security, and I am determined to contribute to a more secure and inclusive future in the field of technology.
 * 🌍  I'm based in Bruxelles
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
 * 🧠  I'm following the [BeCode's Cyber Security Bootcamp](https://becode.org/all-trainings/pedagogical-framework-cyber-security/) 
