@@ -11,7 +11,7 @@ I'm currently enrolled in the [BeCode's Cyber Security Bootcamp](https://becode.
 I firmly believe in the power of free software to promote innovation and security, and I am determined to contribute to a more secure and inclusive future in the field of technology.  
 * 🌍  I'm based in Bruxelles
 * ✉️  You can contact me at [lucas2187@gmail.com](mailto:lucas2187@gmail.com)
-* ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball.
+* ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball (let's go Celtics!).
 
 ### Skills
 
