@@ -15,7 +15,7 @@ I firmly believe in the power of free software to promote innovation and securit
 
 ### Skills
 <p align="center">
-  <img src="https://www.codewars.com/users/luc4587/badges/micro" />
+  <img src="https://www.codewars.com/users/luc4587/badges/large" />
 </p>
 
 <p align="center">
