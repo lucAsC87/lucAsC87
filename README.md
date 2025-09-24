@@ -14,7 +14,7 @@ I firmly believe in the power of free software to promote innovation and securit
 * ⚡  I’m an avid reader (fiction, non-fiction and graphic novels) and I love sci-fi, retro videogames, heavy psychedelic rock and basketball (let's go Celtics!).
 
 ### Skills
-
+<img src="https://www.codewars.com/users/luc4587/badges/micro" />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,python,ubuntu,vim,vscode&theme=dark&" />
