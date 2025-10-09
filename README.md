@@ -23,8 +23,3 @@ I firmly believe in the power of free software to promote innovation and securit
     <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,python,ubuntu,vim,vscode&theme=dark&" />
   </a>
 </p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucAsC87&theme=vision_friendly_dark" />
-</p>
-
