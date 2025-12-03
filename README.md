@@ -7,7 +7,6 @@ Hi 👋 My name is Luca Cavallo
 =============================
 
 After years of experience as a journalist and librarian, I decided to start a new path in IT, combining my communication and analytical skills with technology.   
-I'm currently enrolled in the [BeCode's Cyber Security Bootcamp](https://becode.org/all-trainings/pedagogical-framework-cyber-security/).  
 I firmly believe in the power of free software to promote innovation and security, and I am determined to contribute to a more secure and inclusive future in the field of technology.  
 * 🌍  I'm based in Bruxelles
 * ⚡  I’m an avid reader and I love sci-fi, retro videogames, heavy psychedelic rock and basketball (let's go Celtics!).
