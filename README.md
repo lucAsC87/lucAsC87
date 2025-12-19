@@ -13,10 +13,6 @@ I firmly believe in the power of free software to promote innovation and securit
 
 ### Skills
 <p align="center">
-  <img src="https://www.codewars.com/users/luc4587/badges/large" />
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,css,git,github,html,js,linux,python,sqlite,ubuntu,vim,vscodium&theme=dark&" />
   </a>
