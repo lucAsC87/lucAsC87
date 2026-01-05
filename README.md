@@ -6,7 +6,7 @@
 Hi 👋 My name is Luca Cavallo
 =============================
 
-After years of experience as a journalist and librarian, I decided to start a new path in IT, combining my communication and analytical skills with technology.
+After years of experience as a journalist and librarian, I decided to start a new path in IT, combining my communication and analytical skills with technology.  
 So I've spent a few years learning how to write code and I've recently discovered my passion for ethical hacking: I am currently studying to obtain my CPTS qualification.
 * 🌍  I'm based in Bruxelles
 * ⚡  I’m an avid reader and I love sci-fi, retro videogames, heavy psychedelic rock and basketball (let's go Celtics!).
@@ -14,7 +14,7 @@ So I've spent a few years learning how to write code and I've recently discovere
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,css,html,js,linux,python,sqlite&theme=dark&" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,github,html,js,kali,linux,notion,python,sqlite,vim,vscodium&theme=dark&" />
   </a>
 </p>
 
