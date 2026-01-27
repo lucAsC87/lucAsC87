@@ -10,7 +10,7 @@ After years of experience as a journalist and librarian, I decided to start a ne
 So I've spent a few years learning how to write code and I've recently discovered my passion for ethical hacking: I am currently studying to obtain my CPTS qualification.  
 My HTB Academy Student ID: HTB-9322A3E138
 * 🌍  I'm based in Bruxelles
-* ⚡  I’m an avid reader and I love sci-fi, retro video games, heavy psychedelic rock and basketball (let's go Celtics!).
+* ⚡  I’m an avid reader and I love sci-fi, retro video games and heavy psychedelic rock.
 
 ### 📚 Skills
 <p align="center">
